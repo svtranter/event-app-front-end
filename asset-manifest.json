@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/event-app-front-end/static/css/main.5ce25ed8.chunk.css",
+    "main.js": "/event-app-front-end/static/js/main.bd8b16df.chunk.js",
+    "main.js.map": "/event-app-front-end/static/js/main.bd8b16df.chunk.js.map",
+    "runtime-main.js": "/event-app-front-end/static/js/runtime-main.fceaaf2a.js",
+    "runtime-main.js.map": "/event-app-front-end/static/js/runtime-main.fceaaf2a.js.map",
+    "static/css/2.818011ed.chunk.css": "/event-app-front-end/static/css/2.818011ed.chunk.css",
+    "static/js/2.d8352b57.chunk.js": "/event-app-front-end/static/js/2.d8352b57.chunk.js",
+    "static/js/2.d8352b57.chunk.js.map": "/event-app-front-end/static/js/2.d8352b57.chunk.js.map",
+    "static/js/3.575c7c83.chunk.js": "/event-app-front-end/static/js/3.575c7c83.chunk.js",
+    "static/js/3.575c7c83.chunk.js.map": "/event-app-front-end/static/js/3.575c7c83.chunk.js.map",
+    "index.html": "/event-app-front-end/index.html",
+    "static/css/2.818011ed.chunk.css.map": "/event-app-front-end/static/css/2.818011ed.chunk.css.map",
+    "static/css/main.5ce25ed8.chunk.css.map": "/event-app-front-end/static/css/main.5ce25ed8.chunk.css.map",
+    "static/js/2.d8352b57.chunk.js.LICENSE.txt": "/event-app-front-end/static/js/2.d8352b57.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fceaaf2a.js",
+    "static/css/2.818011ed.chunk.css",
+    "static/js/2.d8352b57.chunk.js",
+    "static/css/main.5ce25ed8.chunk.css",
+    "static/js/main.bd8b16df.chunk.js"
+  ]
+}
